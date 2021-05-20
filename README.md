@@ -1,3 +1,3 @@
-# ![emichel](https://cdn.discordapp.com/icons/653612743475331073/4d230e63ad3d4aec06d2d8f68fc48f3d.webp?size=256)
+! [statistiques github de 4samsamAC](https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&hide=[%22issues%22])
 
 ### Yo !
