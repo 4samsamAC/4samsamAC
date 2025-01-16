@@ -11,3 +11,6 @@ Si tu me cherches, je traîne essentiellement sur Discord. N'hésite pas à me p
 
 Et là ce sont mes trophées, aucune idée de comment je les ai obtenus ou à quoi ça sert, mais ils sont là ;-;
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=4samsamAC&theme=onedark"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
