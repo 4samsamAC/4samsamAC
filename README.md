@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
@@ -48,22 +48,24 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      2 hrs 54 mins       ██████████████████░░░░░░░   72.32 % 
-CSS                      31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Python                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+PHP                      6 hrs 45 mins       ███████████████████░░░░░░   75.29 % 
+CSS                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  8 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cret-mobile              3 hrs 25 mins       █████████████████████░░░░   85.30 % 
-StreamLabsTikTokStreamKey30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-waka-readme-stats        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+cret-mobile              7 hrs 44 mins       ██████████████████████░░░   86.27 % 
+StreamLabsTikTokStreamKey57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+WwG                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+waka-readme-stats        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+GestionFacturation       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -83,7 +85,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 01:04:47 UTC
+ Last Updated on 21/01/2025 06:19:59 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/f675ff5b-70ee-4dc6-b972-368f116cec7b.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
