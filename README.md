@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
@@ -13,7 +13,7 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 
 > 📦 355.4 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2025
+> 🏆 81 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                79 commits          █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-🌆 Daytime                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌃 Evening                82 commits          ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+🌞 Morning                83 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+🌆 Daytime                107 commits         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+🌃 Evening                82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Thursday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Friday                   81 commits          █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Monday                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Thursday                 65 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Friday                   85 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Sunday                   21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
 
 
@@ -86,7 +86,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2025 06:19:52 UTC
+ Last Updated on 24/01/2025 12:27:29 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
