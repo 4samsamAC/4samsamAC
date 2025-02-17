@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,22 +48,22 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.07 % 
-JSON                     1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   34.84 % 
-JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Python                   1 hr 55 mins        ███████████████░░░░░░░░░░   58.94 % 
+JavaScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 37 mins       ████████████████████████░   97.31 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Cursor                   3 hrs 8 mins        ████████████████████████░   96.32 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🐱‍💻 Projects: 
-discord-anti-bf          4 hrs 11 mins       ██████████████████████░░░   88.21 % 
-geekstone-bot-v14        25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-geekstone-ytb-bot        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+discord-anti-bf          2 hrs 42 mins       █████████████████████░░░░   83.03 % 
+geekstone-bot-v14        25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+geekstone-ytb-bot        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -83,7 +83,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2025 01:09:28 UTC
+ Last Updated on 17/02/2025 06:20:53 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
