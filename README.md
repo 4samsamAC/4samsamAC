@@ -5,7 +5,7 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-784%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -48,22 +48,23 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 7 mins         ████████████████████░░░░░   79.75 % 
-TypeScript               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JavaScript               1 hr 7 mins         ████████████████████░░░░░   78.18 % 
+TypeScript               16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Cursor                   1 hr 24 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bot                      52 mins             ███████████████░░░░░░░░░░   61.89 % 
-ChoukyBotIa              16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-chess                    15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+bot                      52 mins             ███████████████░░░░░░░░░░   60.40 % 
+ChoukyBotIa              18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+chess                    15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+discord-anti-bf          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  1 hr 24 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -83,7 +84,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2025 18:20:47 UTC
+ Last Updated on 02/04/2025 01:12:49 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
