@@ -11,7 +11,7 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 
 **🐱 My GitHub Data** 
 
-> 📦 356.0 kB Used in GitHub's Storage 
+> 📦 355.9 kB Used in GitHub's Storage 
  > 
 > 🏆 130 Contributions in the Year 2025
  > 
@@ -21,6 +21,50 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                86 commits          █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌆 Daytime                145 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌃 Evening                86 commits          █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌙 Night                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Tuesday                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Wednesday                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Thursday                 71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Friday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Saturday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+JSON                     18 mins             █████████████████░░░░░░░░   69.40 % 
+Python                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+
+🔥 Editors: 
+Cursor                   25 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+DEV IS SO ANNOYING !!!!!!23 mins             ██████████████████████░░░   89.51 % 
+ChoukyBotIa              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+discord-anti-bf          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+
+💻 Operating System: 
+Windows                  25 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -38,7 +82,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2025 01:12:20 UTC
+ Last Updated on 08/04/2025 06:22:02 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
