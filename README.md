@@ -3,9 +3,9 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-793%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -48,24 +48,24 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 4 mins        █████████████░░░░░░░░░░░░   53.16 % 
-PHP                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Text                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JavaScript               3 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.99 % 
+PHP                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 46 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pps-sa-site              2 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.80 % 
-yt-thumbnail             1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-geekstone-bot-v14        49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-ChoukyBotIa              24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-yt-thumbnail-upload      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+pps-sa-site              2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
+ChoukyBotIa              2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+yt-thumbnail             1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+geekstone-bot-v14        49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+yt-thumbnail-upload      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 💻 Operating System: 
-Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -85,7 +85,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 18:19:55 UTC
+ Last Updated on 14/04/2025 01:15:45 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
