@@ -48,22 +48,16 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     56 mins             ██████████████░░░░░░░░░░░   55.93 % 
-Python                   24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ChoukyBotIa              1 hr 20 mins        ████████████████████░░░░░   80.22 % 
-chess                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-geekstone-bot-v14        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -83,7 +77,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 01:14:01 UTC
+ Last Updated on 23/04/2025 06:22:44 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
