@@ -3,9 +3,9 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -13,7 +13,7 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 
 > 📦 356.0 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2025
+> 🏆 135 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-🌆 Daytime                145 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
-🌃 Evening                86 commits          █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-🌙 Night                  106 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌞 Morning                87 commits          █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+🌆 Daytime                145 commits         ████████░░░░░░░░░░░░░░░░░   33.96 % 
+🌃 Evening                86 commits          █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+🌙 Night                  109 commits         ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Tuesday                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Wednesday                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Thursday                 72 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Friday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Saturday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Monday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  64 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Wednesday                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Thursday                 72 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Friday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Saturday                 32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 
 
@@ -69,10 +69,10 @@ Windows                  1 hr 57 mins        ███████████�
 
 ```text
 PHP                      10 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
-JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   34.78 % 
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 Batchfile                2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
@@ -82,7 +82,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2025 18:19:36 UTC
+ Last Updated on 28/04/2025 01:16:34 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
