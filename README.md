@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-800%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,15 +48,13 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      0 secs              ████████████████████████░   94.59 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 Cursor                   0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cret-mobile              0 secs              ████████████████████████░   94.59 % 
-funny pseudo             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+funny pseudo             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
@@ -79,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 01:17:23 UTC
+ Last Updated on 13/05/2025 06:23:30 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
