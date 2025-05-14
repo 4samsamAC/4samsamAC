@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,16 +48,23 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+JavaScript               4 hrs 11 mins       ███████████████████████░░   92.55 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   0 secs              █████████████████████████   100.00 % 
+Cursor                   4 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-funny pseudo             0 secs              █████████████████████████   100.00 % 
+forsureabadidea          2 hrs 41 mins       ███████████████░░░░░░░░░░   59.42 % 
+imageindex               1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.09 % 
+img filter               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+funny pseudo             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -77,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 01:16:04 UTC
+ Last Updated on 14/05/2025 06:23:13 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
