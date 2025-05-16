@@ -13,7 +13,7 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 
 > 📦 356.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 142 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,7 +48,7 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               4 hrs 11 mins       ███████████████████████░░   92.55 % 
+JavaScript               4 hrs 11 mins       ███████████████████████░░   92.56 % 
 Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
@@ -59,9 +59,8 @@ Cursor                   4 hrs 31 mins       ███████████�
 
 🐱‍💻 Projects: 
 forsureabadidea          2 hrs 41 mins       ███████████████░░░░░░░░░░   59.42 % 
-imageindex               1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.09 % 
+imageindex               1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   31.10 % 
 img filter               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-funny pseudo             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
@@ -84,7 +83,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2025 01:17:10 UTC
+ Last Updated on 16/05/2025 06:23:31 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
