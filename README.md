@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -13,7 +13,7 @@ En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je s
 
 > 📦 356.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 142 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,24 +48,24 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               4 hrs 54 mins       █████████████████░░░░░░░░   68.16 % 
-Singularity              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Smalltalk                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+JavaScript               6 hrs 11 mins       ██████████████████░░░░░░░   71.36 % 
+Singularity              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Smalltalk                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 12 mins       █████████████████████████   100.00 % 
+Cursor                   8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-forsureabadidea          2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.33 % 
-Unknown Project          1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-imageindex               1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Bot Discord Ticket       32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-img filter               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+forsureabadidea          2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.40 % 
+Unknown Project          1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+imageindex               1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Bot Discord Ticket       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+OwO.net                  54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 💻 Operating System: 
-Windows                  7 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -85,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 01:18:11 UTC
+ Last Updated on 20/05/2025 06:23:57 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
