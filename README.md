@@ -48,20 +48,16 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               39 mins             ███████████████████░░░░░░   74.96 % 
-JSON                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Bot Discord Ticket       49 mins             ████████████████████████░   94.79 % 
-bot4tony2                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -81,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2025 06:25:41 UTC
+ Last Updated on 05/06/2025 12:34:25 UTC
 <!--END_SECTION:waka-->
 <img align="center" width="50%" height="50%" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
