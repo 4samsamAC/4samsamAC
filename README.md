@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -48,23 +48,23 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 29 mins        ██████████████░░░░░░░░░░░   54.23 % 
-Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-HTML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-CSV                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JavaScript               1 hr 29 mins        █████████████░░░░░░░░░░░░   52.98 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+HTML                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+CSV                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-facture-op               2 hrs 11 mins       ████████████████████░░░░░   80.16 % 
-Unknown Project          24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-imageindex               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+facture-op               2 hrs 11 mins       ████████████████████░░░░░   78.31 % 
+Unknown Project          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+imageindex               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 cret-mobile              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -84,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 01:25:36 UTC
+ Last Updated on 14/07/2025 06:27:43 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
