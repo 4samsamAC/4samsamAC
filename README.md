@@ -1,6 +1,6 @@
 # ✌ Yop, moi, c'est 4samsamAC!
 
-En plein tryhard, en mode learning C++ et Java là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
+En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2058%20mins-blue)
