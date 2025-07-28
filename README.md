@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -13,13 +13,13 @@ En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit
 
 > 📦 360.7 kB Used in GitHub's Storage 
  > 
-> 🏆 191 Contributions in the Year 2025
+> 🏆 193 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -48,24 +48,24 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Batchfile                12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-JavaScript               12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Other                    11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Bash                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+JavaScript               1 hr 26 mins        ██████████████░░░░░░░░░░░   54.06 % 
+JSON                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Batchfile                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-Cursor                   1 hr 5 mins         █████████████████████████   100.00 % 
+Cursor                   2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ImpactPlusTraining       23 mins             █████████░░░░░░░░░░░░░░░░   35.76 % 
-Unknown Project          16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-ccmd                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Schedule I_Data          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-geekstone-bot-v14        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+osu-rpc                  1 hr 42 mins        ████████████████░░░░░░░░░   64.11 % 
+ImpactPlusTraining       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+ccmd                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Schedule I_Data          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 01:39:08 UTC
+ Last Updated on 28/07/2025 06:28:49 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
