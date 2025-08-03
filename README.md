@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-845%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -48,24 +48,24 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               4 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.14 % 
-TypeScript               1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-JSON                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JavaScript               4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.47 % 
+JSON                     1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+TypeScript               1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Python                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 30 mins       █████████████████████████   100.00 % 
+Cursor                   9 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-osu-rpc                  7 hrs 57 mins       █████████████████████░░░░   83.71 % 
-helpmepls                1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-peaceful-parallax        20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Simplistic by jassper0   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Discord-Rich-Presence    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+osu-rpc                  7 hrs 57 mins       ████████████████████░░░░░   80.47 % 
+helpmepls                1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+peaceful-parallax        20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Simplistic by jassper0   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2025 01:41:51 UTC
+ Last Updated on 03/08/2025 06:24:00 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
