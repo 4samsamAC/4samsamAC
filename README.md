@@ -48,18 +48,16 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               26 mins             █████████████████████░░░░   85.05 % 
-JavaScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bot-twitch               19 mins             ████████████████░░░░░░░░░   63.99 % 
-Gambling-Game            11 mins             █████████░░░░░░░░░░░░░░░░   36.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2025 01:21:01 UTC
+ Last Updated on 15/08/2025 06:26:14 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
