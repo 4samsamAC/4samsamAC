@@ -3,9 +3,9 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-341.0%20thousand%20lines%20of%20code-blue)
 
@@ -48,23 +48,23 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 25 mins        █████████████████░░░░░░░░   66.41 % 
-JavaScript               36 mins             ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Python                   1 hr 25 mins        ████████████████░░░░░░░░░   64.29 % 
+JavaScript               41 mins             ████████░░░░░░░░░░░░░░░░░   31.08 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 8 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-add                      1 hr 6 mins         █████████████░░░░░░░░░░░░   51.77 % 
-audrandiscord            39 mins             ████████░░░░░░░░░░░░░░░░░   31.03 % 
-choukybot                19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-L.A.CityRP               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-discord-anti-bf          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+add                      1 hr 6 mins         █████████████░░░░░░░░░░░░   50.12 % 
+audrandiscord            39 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+choukybot                23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+L.A.CityRP               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+discord-anti-bf          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 01:17:08 UTC
+ Last Updated on 19/08/2025 06:25:05 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
