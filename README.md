@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,9 +48,9 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               6 hrs 3 mins        ████████████████████░░░░░   79.99 % 
-JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JavaScript               6 hrs 3 mins        ████████████████████░░░░░   79.90 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
@@ -58,8 +58,8 @@ TypeScript               1 min               ░░░░░░░░░░░�
 Cursor                   7 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-choukybot                6 hrs 38 mins       ██████████████████████░░░   87.71 % 
-add                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+choukybot                6 hrs 38 mins       ██████████████████████░░░   87.61 % 
+add                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
 osu-rpc                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ImpactPlusTraining       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
@@ -84,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 01:13:07 UTC
+ Last Updated on 29/08/2025 06:23:36 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
