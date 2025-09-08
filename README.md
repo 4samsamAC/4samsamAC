@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-862%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -48,20 +48,22 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               26 mins             █████████████░░░░░░░░░░░░   50.95 % 
-JSON                     21 mins             ██████████░░░░░░░░░░░░░░░   41.96 % 
-Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+JavaScript               26 mins             ████████████░░░░░░░░░░░░░   47.94 % 
+JSON                     21 mins             ██████████░░░░░░░░░░░░░░░   39.48 % 
+Git Config               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Cursor                   52 mins             █████████████████████████   100.00 % 
+Cursor                   55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-choukybot                51 mins             █████████████████████████   99.31 % 
-imageindex               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+choukybot                51 mins             ███████████████████████░░   93.45 % 
+add                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+imageindex               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +83,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2025 01:15:30 UTC
+ Last Updated on 08/09/2025 06:25:35 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
