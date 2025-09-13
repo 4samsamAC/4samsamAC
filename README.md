@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-864%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -13,7 +13,7 @@ En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit
 
 > 📦 340.7 kB Used in GitHub's Storage 
  > 
-> 🏆 203 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,24 +48,24 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-OCaml                    1 hr 15 mins        ████████████░░░░░░░░░░░░░   48.57 % 
-JavaScript               50 mins             ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript               2 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.35 % 
+OCaml                    1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+JSON                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 35 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-opam-1                   1 hr 12 mins        ████████████░░░░░░░░░░░░░   46.79 % 
-choukybot                1 hr                ██████████░░░░░░░░░░░░░░░   39.05 % 
-add                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-scope                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-ept                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+choukybot                2 hrs 58 mins       ████████████████░░░░░░░░░   65.26 % 
+opam-1                   1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+add                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+scope                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+ept                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 01:06:32 UTC
+ Last Updated on 13/09/2025 06:20:19 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
