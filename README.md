@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,21 +48,16 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-mcfunction               1 hr 24 mins        ██████████████████░░░░░░░   70.53 % 
-JSON                     23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Python                   32 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   2 hrs               █████████████████████████   100.00 % 
+Cursor                   32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dve                      1 hr 32 mins        ███████████████████░░░░░░   76.69 % 
-macros-tutorial          17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-datapacks                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+pixeldetect              32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 01:17:06 UTC
+ Last Updated on 22/09/2025 06:25:21 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
