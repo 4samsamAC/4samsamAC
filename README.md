@@ -3,6 +3,8 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-879%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-342.4%20thousand%20lines%20of%20code-blue)
@@ -19,6 +21,53 @@ En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                104 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌆 Daytime                164 commits         ████████░░░░░░░░░░░░░░░░░   33.20 % 
+🌃 Evening                98 commits          █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌙 Night                  128 commits         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  71 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Wednesday                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Thursday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Friday                   120 commits         ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+PHP                      7 hrs 41 mins       █████████████████░░░░░░░░   68.85 % 
+INI                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+CSV                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+
+🔥 Editors: 
+Cursor                   11 hrs 9 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cret-mobile              7 hrs 3 mins        ████████████████░░░░░░░░░   63.18 % 
+GestionFacturation       2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+test                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+pixeldetect              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+facture-op               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+💻 Operating System: 
+Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -36,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 01:18:42 UTC
+ Last Updated on 28/09/2025 06:21:49 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
