@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,18 +48,20 @@ Sunday                   23 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-OCaml                    18 mins             █████████████████████████   99.84 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+OCaml                    19 mins             █████████████████████░░░░   83.16 % 
+Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Cursor                   18 mins             █████████████████████████   100.00 % 
+Cursor                   23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-opam-1                   18 mins             █████████████████████████   99.84 % 
-Bot Discord Ticket       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+opam-1                   19 mins             █████████████████████░░░░   83.16 % 
+add                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Bot Discord Ticket       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -79,7 +81,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 01:20:37 UTC
+ Last Updated on 02/11/2025 06:23:42 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
