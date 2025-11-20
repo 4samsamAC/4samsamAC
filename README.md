@@ -3,7 +3,7 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -13,7 +13,7 @@ En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit
 
 > 📦 341.5 kB Used in GitHub's Storage 
  > 
-> 🏆 271 Contributions in the Year 2025
+> 🏆 274 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@ En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                115 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-🌆 Daytime                183 commits         ████████░░░░░░░░░░░░░░░░░   33.09 % 
-🌃 Evening                123 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-🌙 Night                  132 commits         ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+🌞 Morning                115 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+🌆 Daytime                183 commits         ████████░░░░░░░░░░░░░░░░░   32.91 % 
+🌃 Evening                123 commits         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+🌙 Night                  135 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Tuesday                  95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Thursday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   128 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Tuesday                  95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Friday                   128 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 
 
@@ -86,7 +86,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2025 18:25:07 UTC
+ Last Updated on 20/11/2025 01:15:51 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
