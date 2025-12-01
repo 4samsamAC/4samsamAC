@@ -3,17 +3,17 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-937%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-344.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-351.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 341.6 kB Used in GitHub's Storage 
+> 📦 341.7 kB Used in GitHub's Storage 
  > 
-> 🏆 279 Contributions in the Year 2025
+> 🏆 280 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@ En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                115 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌆 Daytime                188 commits         ████████░░░░░░░░░░░░░░░░░   33.51 % 
-🌃 Evening                123 commits         █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-🌙 Night                  135 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+🌞 Morning                115 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌆 Daytime                189 commits         ████████░░░░░░░░░░░░░░░░░   33.63 % 
+🌃 Evening                123 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+🌙 Night                  135 commits         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   94 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Tuesday                  95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Thursday                 97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Friday                   128 commits         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Monday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Tuesday                  95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Wednesday                85 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Thursday                 97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Friday                   128 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Sunday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
 
 
@@ -64,8 +64,8 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
-PHP                      11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+PHP                      10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 Batchfile                2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
@@ -77,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2025 06:29:12 UTC
+ Last Updated on 01/12/2025 12:37:20 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
