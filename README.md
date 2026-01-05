@@ -3,11 +3,11 @@
 En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.62%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.62%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,25 +48,25 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 30 mins        █████████████████░░░░░░░░   67.63 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               1 hr 5 mins         ███████████████░░░░░░░░░░   61.54 % 
+Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Cursor                   1 hr 58 mins        ██████████████████████░░░   88.77 % 
-VS Code                  15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Cursor                   1 hr 32 mins        █████████████████████░░░░   85.97 % 
+VS Code                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
 
 🐱‍💻 Projects: 
-SIBFM                    1 hr 12 mins        ██████████████░░░░░░░░░░░   54.14 % 
-rosettastonks-chrome     42 mins             ████████░░░░░░░░░░░░░░░░░   31.75 % 
-RosettaStonks            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-osu-rpc                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-pixeldetect              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+SIBFM                    47 mins             ███████████░░░░░░░░░░░░░░   44.70 % 
+rosettastonks-chrome     42 mins             ██████████░░░░░░░░░░░░░░░   39.64 % 
+RosettaStonks            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+osu-rpc                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Gambling-Game            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:24:36 UTC
+ Last Updated on 05/01/2026 18:28:55 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
