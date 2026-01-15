@@ -1,6 +1,6 @@
-# ✌ Yop, moi, c'est 4samsamAC!
+# ✌ Yop, I'm 4samsamAC!
 
-En plein tryhard, en mode learning Zig là :O Quand je ne code pas, je suis soit en train de tryhard osu! ou en train de dormir profondément ;-;
+I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-969%20hrs%2034%20mins-blue?style=flat)
@@ -89,11 +89,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
  Last Updated on 15/01/2026 06:29:36 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=4samsamAC&show_icons=true&theme=midnight-purple&count_private=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4samsamAC&layout=compact&theme=midnight-purple&count_private=true"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-Si tu me cherches, je traîne essentiellement sur Discord. N'hésite pas à me ping (ps : je suis 290% du temps en invisible, donc même si je ne suis pas co, je suis peut-être là) : 
+If you're looking for me, I'm mostly on Discord. Soooo don't esitate to ping me (Btw send me a message demand, and don't forget http://nohello.com/ ⁣I don't accept other ways.) : 
 <a href="discord://-/users/581625633830993961"><img align="center" src="https://discord.c99.nl/widget/theme-2/581625633830993961.png"/></a>
-
-Et là ce sont mes trophées, aucune idée de comment je les ai obtenus ou à quoi ça sert, mais ils sont là ;-;
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=4samsamAC&theme=onedark"/>
