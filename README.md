@@ -90,5 +90,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-If you're looking for me, I'm mostly on Discord. Soooo don't esitate to ping me (Btw send me a message demand, and don't forget http://nohello.com/ ⁣I don't accept other ways.) : 
+If you're looking for me, I'm mostly on Discord. Soooo don't hesitate to ping me (Btw send me a message demand, and don't forget <http://nohello.com/> ⁣I don't accept other ways.) : 
 <a href="discord://-/users/581625633830993961"><img align="center" src="https://discord.c99.nl/widget/theme-2/581625633830993961.png"/></a>
