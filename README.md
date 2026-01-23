@@ -5,7 +5,7 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-978%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.78%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -48,24 +48,23 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      6 hrs 40 mins       ████████████████████░░░░░   79.04 % 
-HTML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+PHP                      4 hrs 14 mins       ███████████████████████░░   91.58 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 33 mins       ██████████████░░░░░░░░░░░   54.01 % 
-VS Code                  3 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+VS Code                  3 hrs 36 mins       ███████████████████░░░░░░   77.97 % 
+Cursor                   1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            4 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.85 % 
-tp1_php                  2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.71 % 
-tp2_php                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-GestionFacturation       37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+tp1_php                  2 hrs 50 mins       ███████████████░░░░░░░░░░   61.56 % 
+BroadCastMail            46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+tp2_php                  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+GestionFacturation       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
-Windows                  8 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2026 01:24:13 UTC
+ Last Updated on 23/01/2026 06:30:33 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
