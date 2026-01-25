@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -13,7 +13,7 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
 
 > 📦 343.0 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,24 +48,25 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      3 hrs 27 mins       ████████████████████████░   94.45 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+PHP                      3 hrs 27 mins       █████████████████░░░░░░░░   67.50 % 
+TypeScript               1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 36 mins       █████████████████████████   98.58 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+VS Code                  3 hrs 36 mins       ██████████████████░░░░░░░   70.46 % 
+Cursor                   1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
 
 🐱‍💻 Projects: 
-tp1_php                  2 hrs 50 mins       ███████████████████░░░░░░   77.69 % 
-tp2_php                  45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Gambling-Game            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-RosettaStonks            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+tp1_php                  2 hrs 50 mins       ██████████████░░░░░░░░░░░   55.53 % 
+Gambling-Game            1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+tp2_php                  45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+scripts                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+RosettaStonks            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +86,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2026 01:42:34 UTC
+ Last Updated on 25/01/2026 06:28:01 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
