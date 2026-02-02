@@ -3,6 +3,8 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-361.98%20thousand%20lines%20of%20code-blue?style=flat)
@@ -46,24 +48,24 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      4 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.08 % 
-HTML                     1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Zig                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+PHP                      4 hrs 8 mins        ██████████████░░░░░░░░░░░   57.04 % 
+HTML                     1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Zig                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 27 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            5 hrs 17 mins       ████████████████░░░░░░░░░   62.64 % 
-Gambling-Game            1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-test                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-GestionFacturation       37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-cret-mobile              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+BroadCastMail            5 hrs 17 mins       ██████████████████░░░░░░░   72.80 % 
+test                     1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+GestionFacturation       37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+cret-mobile              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+GestionFacturation old   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  8 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 01:54:36 UTC
+ Last Updated on 02/02/2026 06:58:48 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
