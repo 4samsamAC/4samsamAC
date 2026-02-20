@@ -3,17 +3,17 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362.18%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-362.31%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 343.3 kB Used in GitHub's Storage 
  > 
-> 🏆 41 Contributions in the Year 2026
+> 🏆 49 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,21 +24,21 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                134 commits         █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-🌆 Daytime                230 commits         █████████░░░░░░░░░░░░░░░░   36.05 % 
-🌃 Evening                128 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-🌙 Night                  146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+🌞 Morning                144 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+🌆 Daytime                232 commits         █████████░░░░░░░░░░░░░░░░   35.69 % 
+🌃 Evening                128 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+🌙 Night                  146 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Tuesday                  110 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Thursday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Friday                   144 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Monday                   105 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Tuesday                  110 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Wednesday                98 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Thursday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Friday                   156 commits         ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Saturday                 39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Sunday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 
 
@@ -72,11 +72,11 @@ Windows                  3 hrs 33 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
-PHP                      11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               14 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+PHP                      11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -86,7 +86,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 06:20:25 UTC
+ Last Updated on 20/02/2026 12:12:16 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
