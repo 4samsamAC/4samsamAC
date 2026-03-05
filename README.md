@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,16 +48,18 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+eval2_php                50 mins             █████████░░░░░░░░░░░░░░░░   35.61 % 
+tp5_php                  47 mins             ████████░░░░░░░░░░░░░░░░░   33.46 % 
+php_poo                  44 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +79,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2026 00:23:46 UTC
+ Last Updated on 05/03/2026 06:17:39 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
