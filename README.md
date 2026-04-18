@@ -3,6 +3,8 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C048%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-376.90%20thousand%20lines%20of%20code-blue?style=flat)
@@ -46,23 +48,23 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      6 hrs 5 mins        ██████████████░░░░░░░░░░░   55.22 % 
-HTML                     4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.73 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+PHP                      5 hrs 39 mins       █████████████░░░░░░░░░░░░   50.70 % 
+HTML                     4 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 2 mins       █████████████████████████   100.00 % 
+Cursor                   11 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            5 hrs 57 mins       ██████████████░░░░░░░░░░░   54.02 % 
-CRET-Dashboard           4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   43.66 % 
-GestionFacturation       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+BroadCastMail            6 hrs 14 mins       ██████████████░░░░░░░░░░░   56.02 % 
+CRET-Dashboard           4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.70 % 
+GestionFacturation       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 kernel-density-estimation0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 00:29:06 UTC
+ Last Updated on 18/04/2026 06:27:53 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
