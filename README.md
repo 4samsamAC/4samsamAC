@@ -48,19 +48,16 @@ Sunday                   29 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 13 mins        ████████████████████░░░░░   79.14 % 
-JavaScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CRET-Dashboard           1 hr 29 mins        ████████████████████████░   96.08 % 
-BroadCastMail            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +77,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2026 00:30:37 UTC
+ Last Updated on 25/04/2026 06:32:40 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
