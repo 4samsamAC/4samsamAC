@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C048%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -48,16 +48,24 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      2 hrs 22 mins       ██████████████████░░░░░░░   72.59 % 
+JSON                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CRET-Dashboard           1 hr 56 mins        ███████████████░░░░░░░░░░   59.56 % 
+choukybot                50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+cret-mobile              25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+add                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+BroadCastMail            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 00:36:11 UTC
+ Last Updated on 05/05/2026 06:48:05 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
