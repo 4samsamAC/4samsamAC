@@ -3,11 +3,11 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385.42%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-382.63%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -71,11 +71,11 @@ Windows                  7 hrs 12 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-PHP                      13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               14 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+PHP                      12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -85,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 18:31:32 UTC
+ Last Updated on 09/05/2026 00:38:28 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
