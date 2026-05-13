@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -21,53 +21,6 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
  > 
 > 🔑 30 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                205 commits         ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-🌆 Daytime                319 commits         █████████░░░░░░░░░░░░░░░░   34.30 % 
-🌃 Evening                224 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-🌙 Night                  182 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Tuesday                  176 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Wednesday                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Thursday                 171 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Friday                   192 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Saturday                 83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Sunday                   35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-PHP                      3 hrs 50 mins       ██████████████████░░░░░░░   72.40 % 
-TypeScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-
-🔥 Editors: 
-Cursor                   5 hrs 17 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-BroadCastMail            3 hrs 1 min         ██████████████░░░░░░░░░░░   56.96 % 
-my-app                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-CRET-Dashboard           28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-cret-mobile              26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-testtrucvicdeo           20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-
-💻 Operating System: 
-Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -85,7 +38,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 00:40:55 UTC
+ Last Updated on 13/05/2026 07:04:24 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
