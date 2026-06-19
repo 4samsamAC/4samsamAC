@@ -5,13 +5,13 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-446.41%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 339.3 kB Used in GitHub's Storage 
+> 📦 339.4 kB Used in GitHub's Storage 
  > 
 > 🏆 314 Contributions in the Year 2026
  > 
@@ -48,25 +48,24 @@ Sunday                   35 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
-JavaScript               59 mins             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-CSS                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+JavaScript               3 hrs 4 mins        ██████████████░░░░░░░░░░░   55.42 % 
+HTML                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+CSS                      49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Jeu-3-Atelier-8-BJ       2 hrs 10 mins       ████████████████░░░░░░░░░   62.52 % 
-ChoukyBot-Public         42 mins             █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-algo                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-getMee6                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-red                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Jeu-3-Atelier-8-BJ       4 hrs 23 mins       ████████████████████░░░░░   79.16 % 
+ChoukyBot-Public         42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+algo                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Bot Discord Ticket       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Linux                    2 hrs 43 mins       ████████████████████░░░░░   78.42 % 
-Windows                  45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Linux                    4 hrs 48 mins       ██████████████████████░░░   86.49 % 
+Windows                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +85,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 00:56:12 UTC
+ Last Updated on 19/06/2026 07:54:15 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
