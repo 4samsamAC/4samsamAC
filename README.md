@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -73,9 +73,9 @@ Linux                    2 mins              ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ███████████░░░░░░░░░░░░░░   44.19 % 
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   41.86 % 
 PHP                      13 repos            ████████░░░░░░░░░░░░░░░░░   30.23 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
@@ -87,7 +87,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 18:26:52 UTC
+ Last Updated on 29/06/2026 00:47:37 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
