@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -48,21 +48,25 @@ Sunday                   49 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               48 mins             ███████████████████░░░░░░   77.69 % 
-HTML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+HTML                     3 hrs 2 mins        ██████████████░░░░░░░░░░░   57.57 % 
+JavaScript               1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+CSS                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+Cursor                   4 hrs 15 mins       ████████████████████░░░░░   80.39 % 
+VS Code                  1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
 
 🐱‍💻 Projects: 
-Jeu-3-Atelier-8-BJ       1 hr                ████████████████████████░   97.26 % 
-RosettaStonks            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+portfolio                4 hrs 7 mins        ████████████████████░░░░░   78.05 % 
+Jeu-3-Atelier-8-BJ       1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+BroadCastMail            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+RosettaStonks            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Linux                    1 hr                ████████████████████████░   97.26 % 
-Windows                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Windows                  4 hrs 16 mins       ████████████████████░░░░░   80.92 % 
+Linux                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +86,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 19:51:28 UTC
+ Last Updated on 07/07/2026 02:45:12 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
