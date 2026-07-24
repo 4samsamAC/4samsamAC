@@ -3,8 +3,6 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%2059%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473.04%20thousand%20lines%20of%20code-blue?style=flat)
@@ -48,25 +46,25 @@ Sunday                   63 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
-CSS                      2 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
-JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Java                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+HTML                     2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
+CSS                      2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
+JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Java                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 12 mins       ███████████████████████░░   92.72 % 
-Eclipse                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Cursor                   5 hrs 12 mins       ███████████████████████░░   92.74 % 
+Eclipse                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🐱‍💻 Projects: 
-collinedasie             5 hrs               ██████████████████████░░░   89.35 % 
-tp                       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-choukybot                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+collinedasie             5 hrs 1 min         ██████████████████████░░░   89.38 % 
+tp                       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+choukybot                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 portfolio                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +84,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:10:21 UTC
+ Last Updated on 24/07/2026 02:22:42 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
