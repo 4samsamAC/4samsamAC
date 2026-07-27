@@ -48,24 +48,24 @@ Sunday                   63 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-CSS                      2 hrs 12 mins       ████████████░░░░░░░░░░░░░   49.08 % 
-HTML                     1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   39.50 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+CSS                      1 hr 46 mins        █████████████░░░░░░░░░░░░   50.91 % 
+HTML                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.20 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 30 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-collinedasie             4 hrs 3 mins        ██████████████████████░░░   89.84 % 
-s3s                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-splatnet3-token-util     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+collinedasie             3 hrs 2 mins        ██████████████████████░░░   86.90 % 
+s3s                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+splatnet3-token-util     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:05:28 UTC
+ Last Updated on 27/07/2026 02:34:56 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
