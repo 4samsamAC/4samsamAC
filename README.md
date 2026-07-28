@@ -3,9 +3,9 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C093%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C095%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,46 +50,46 @@ Sunday                   63 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-CSS                      1 hr 46 mins        █████████████░░░░░░░░░░░░   50.91 % 
-HTML                     1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.20 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+PHP                      1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+HTML                     49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+CSS                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 30 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-collinedasie             3 hrs 2 mins        ██████████████████████░░░   86.90 % 
-s3s                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-splatnet3-token-util     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+collinedasie             1 hr 32 mins        ███████████░░░░░░░░░░░░░░   45.25 % 
+BroadCastMail            49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+cret-mobile              21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+GestionFacturation       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+s3s                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 💻 Operating System: 
-Windows                  3 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (6.28%)
+⏱ AI Coding Time: 34 mins (16.87%)
 
-✍️ 2,916 lines written by AI, 181 lines written by hand (94.16% AI-written)
+✍️ 328 lines written by AI, 178 lines written by hand (64.82% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Composer                 2,916 lines         █████████████████████████   100.00 % 
+Composer                 328 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.16% of written lines came from AI
-📝 Concise Prompter — average 81 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 11.93% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.82% of written lines came from AI
+📝 Concise Prompter — average 140 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 40.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 02:09:56 UTC
+ Last Updated on 28/07/2026 08:28:15 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
