@@ -50,32 +50,32 @@ Sunday                   56 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
-PHP                      1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-HTML                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-CSS                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Markdown                 1 hr 43 mins        ███████████░░░░░░░░░░░░░░   43.35 % 
+PHP                      1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   36.47 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 31 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            2 hrs 40 mins       ████████████░░░░░░░░░░░░░   48.29 % 
-collinedasie             1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-GestionFacturation       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-cret-mobile              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-s3s                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+BroadCastMail            2 hrs 40 mins       █████████████████░░░░░░░░   66.91 % 
+GestionFacturation       31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+cret-mobile              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+s3s                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+splatnet3-token-util     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 💻 Operating System: 
-Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (10.37%)
+⏱ AI Coding Time: 34 mins (14.37%)
 
-✍️ 328 lines written by AI, 285 lines written by hand (53.51% AI-written)
+✍️ 328 lines written by AI, 187 lines written by hand (63.69% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -86,10 +86,10 @@ Windows                  5 hrs 31 mins       ███████████�
 Composer                 328 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.51% of written lines came from AI
+⚖️ Balanced with AI — 63.69% of written lines came from AI
 📝 Concise Prompter — average 140 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 50.9% of changed lines were hand-edited
+🚀 High AI Trust — 39.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:02:03 UTC
+ Last Updated on 30/07/2026 08:19:36 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
