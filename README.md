@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
 
@@ -50,32 +50,30 @@ Sunday                   70 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 19 mins       ███████████████░░░░░░░░░░   59.35 % 
-PHP                      1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Markdown                 3 hrs 19 mins       ███████████████░░░░░░░░░░   58.21 % 
+PHP                      2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.46 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 36 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            4 hrs 16 mins       ███████████████████░░░░░░   76.44 % 
-GestionFacturation       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-cret-mobile              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-s3s                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-splatnet3-token-util     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+BroadCastMail            4 hrs 50 mins       █████████████████████░░░░   84.77 % 
+GestionFacturation       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+cret-mobile              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (10.23%)
+⏱ AI Coding Time: 34 mins (10.02%)
 
-✍️ 328 lines written by AI, 282 lines written by hand (53.77% AI-written)
+✍️ 328 lines written by AI, 279 lines written by hand (54.04% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -86,10 +84,10 @@ Windows                  5 hrs 36 mins       ███████████�
 Composer                 328 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.77% of written lines came from AI
+⚖️ Balanced with AI — 54.04% of written lines came from AI
 📝 Concise Prompter — average 140 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 51.04% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +107,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 02:28:28 UTC
+ Last Updated on 01/08/2026 08:14:36 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
