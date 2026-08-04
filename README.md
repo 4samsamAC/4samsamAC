@@ -50,44 +50,27 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 19 mins       ███████████████░░░░░░░░░░   58.21 % 
-PHP                      2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.46 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 3 hrs 5 mins        ██████████████████░░░░░░░   71.68 % 
+PHP                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 43 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            4 hrs 50 mins       █████████████████████░░░░   84.77 % 
-GestionFacturation       31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-cret-mobile              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+BroadCastMail            4 hrs 1 min         ███████████████████████░░   93.55 % 
+GestionFacturation       16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 💻 Operating System: 
-Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (10.02%)
-
-✍️ 328 lines written by AI, 279 lines written by hand (54.04% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Composer                 328 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 54.04% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 50.6% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 02:07:59 UTC
+ Last Updated on 04/08/2026 08:31:00 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
