@@ -50,21 +50,19 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 5 mins        ██████████████████░░░░░░░   71.68 % 
-PHP                      58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 1 hr 36 mins        ██████████████████░░░░░░░   73.57 % 
+PHP                      34 mins             ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 18 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            4 hrs 1 min         ███████████████████████░░   93.55 % 
-GestionFacturation       16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+BroadCastMail            2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +88,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 02:06:57 UTC
+ Last Updated on 05/08/2026 08:29:42 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
