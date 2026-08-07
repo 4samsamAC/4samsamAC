@@ -23,6 +23,54 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                268 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌆 Daytime                241 commits         █████████░░░░░░░░░░░░░░░░   34.28 % 
+🌃 Evening                70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+🌙 Night                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   139 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Tuesday                  55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Thursday                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Friday                   245 commits         █████████░░░░░░░░░░░░░░░░   34.85 % 
+Saturday                 27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Sunday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+PHP                      33 mins             █████████████████████████   98.22 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+🔥 Editors: 
+Cursor                   33 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+BroadCastMail            33 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  33 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -40,7 +88,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:28:29 UTC
+ Last Updated on 07/08/2026 07:09:06 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
