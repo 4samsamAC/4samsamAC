@@ -3,9 +3,9 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -50,22 +50,40 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      53 mins             ████████████████████░░░░░   81.13 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 5 mins         █████████████████████████   98.45 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BroadCastMail            1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 mins (19.91%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 54 Input Tokens, 54 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 109 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +103,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 01:21:32 UTC
+ Last Updated on 11/08/2026 07:00:04 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
