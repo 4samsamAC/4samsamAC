@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C105%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
 
@@ -50,24 +50,24 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.36 % 
-Go                       1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.96 % 
-Lua                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Nginx configuration file 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Go                       1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.51 % 
+PHP                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.91 % 
+Batchfile                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Nginx configuration file 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 37 mins       ██████████████████░░░░░░░   70.97 % 
-Cursor                   1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+VS Code                  2 hrs 57 mins       █████████████████████████   99.56 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            1 hr 47 mins        ████████████░░░░░░░░░░░░░   48.35 % 
-tgo                      1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   34.96 % 
-nvim                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-roomchainnode.format-swit3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+tgo                      1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.51 % 
+BroadCastMail            1 hr 16 mins        ███████████░░░░░░░░░░░░░░   43.03 % 
+F:                       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+roomchainnode.format-swit3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 01:04:02 UTC
+ Last Updated on 21/08/2026 06:39:17 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
