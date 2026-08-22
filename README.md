@@ -50,24 +50,23 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Go                       1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.51 % 
-PHP                      1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.91 % 
-Batchfile                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Nginx configuration file 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript               2 hrs 31 mins       ██████████████░░░░░░░░░░░   55.73 % 
+Go                       1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+PowerShell               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████████████   99.56 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+VS Code                  4 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tgo                      1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.51 % 
-BroadCastMail            1 hr 16 mins        ███████████░░░░░░░░░░░░░░   43.03 % 
-F:                       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-roomchainnode.format-swit3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+F:                       3 hrs 6 mins        █████████████████░░░░░░░░   68.82 % 
+tgo                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+roomchainnode.format-swit3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+BroadCastMail            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +92,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 01:00:37 UTC
+ Last Updated on 22/08/2026 06:33:09 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
