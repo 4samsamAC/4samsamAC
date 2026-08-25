@@ -13,7 +13,7 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
 
 **🐱 My GitHub Data** 
 
-> 📦 348.5 kB Used in GitHub's Storage 
+> 📦 348.4 kB Used in GitHub's Storage 
  > 
 > 🏆 360 Contributions in the Year 2026
  > 
@@ -50,23 +50,22 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               2 hrs 31 mins       ██████████████░░░░░░░░░░░   55.73 % 
-Go                       1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-PowerShell               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JavaScript               3 hrs 38 mins       ████████████████░░░░░░░░░   65.00 % 
+Go                       1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+PowerShell               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-F:                       3 hrs 6 mins        █████████████████░░░░░░░░   68.82 % 
-tgo                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-roomchainnode.format-swit3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-BroadCastMail            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+F:                       4 hrs 13 mins       ███████████████████░░░░░░   75.72 % 
+tgo                      1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+roomchainnode.format-swit3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +91,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 01:02:34 UTC
+ Last Updated on 25/08/2026 06:39:46 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
