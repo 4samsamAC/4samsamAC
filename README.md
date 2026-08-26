@@ -50,22 +50,22 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 38 mins       ████████████████░░░░░░░░░   65.00 % 
-Go                       1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-PowerShell               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Bash                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JavaScript               3 hrs 35 mins       ██████████████░░░░░░░░░░░   55.29 % 
+Go                       1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+PHP                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-F:                       4 hrs 13 mins       ███████████████████░░░░░░   75.72 % 
-tgo                      1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-roomchainnode.format-swit3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+F:                       4 hrs 13 mins       ████████████████░░░░░░░░░   65.16 % 
+tgo                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+BroadCastMail            1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 💻 Operating System: 
-Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +91,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 01:04:07 UTC
+ Last Updated on 26/08/2026 06:41:17 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
