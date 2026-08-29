@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C114%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
 
@@ -50,21 +50,21 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               3 hrs 35 mins       ██████████████░░░░░░░░░░░   56.65 % 
-PHP                      1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.96 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+PHP                      4 hrs 20 mins       ██████████████████░░░░░░░   70.02 % 
+JavaScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-F:                       3 hrs 54 mins       ███████████████░░░░░░░░░░   61.52 % 
-BroadCastMail            2 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.48 % 
+BroadCastMail            4 hrs 58 mins       ████████████████████░░░░░   80.28 % 
+F:                       1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 21:41:49 UTC
+ Last Updated on 29/08/2026 05:27:31 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
