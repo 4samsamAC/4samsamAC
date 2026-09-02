@@ -50,21 +50,21 @@ Sunday                   39 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      8 hrs 10 mins       █████████████████████░░░░   82.80 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+PHP                      7 hrs 21 mins       █████████████████████░░░░   83.91 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BroadCastMail            9 hrs 37 mins       ████████████████████████░   97.56 % 
-choukybot                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+BroadCastMail            8 hrs 31 mins       ████████████████████████░   97.25 % 
+choukybot                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Windows                  9 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 02:40:24 UTC
+ Last Updated on 02/09/2026 10:32:47 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
