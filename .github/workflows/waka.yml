@@ -13,4 +13,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#a78bfa"
+          BAR_TRACK_COLOR: "#a29bfe"
+          BAR_RADIUS: "4"
           SHOW_LINES_OF_CODE: true
