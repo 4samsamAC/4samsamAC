@@ -50,21 +50,24 @@ Sunday                   48 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      37 mins             ██████████████████░░░░░░░   73.46 % 
-YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-INI                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+PHP                      37 mins             ███████████░░░░░░░░░░░░░░   43.44 % 
+YAML                     27 mins             ████████░░░░░░░░░░░░░░░░░   31.15 % 
+JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+INI                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CYBER_SYMFONY_1          51 mins             █████████████████████████   99.48 % 
-DVWA                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+CYBER_SYMFONY_1          51 mins             ███████████████░░░░░░░░░░   58.83 % 
+PGdocker                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+ChoukyBotDiscordPublic   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+projetMysqlDocker        10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+DVWA                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,7 +93,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 02:53:26 UTC
+ Last Updated on 09/09/2026 10:43:12 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
