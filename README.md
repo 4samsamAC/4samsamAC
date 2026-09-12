@@ -7,7 +7,7 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-160.94%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -50,24 +50,24 @@ Sunday                   51 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.45 % 
-Twig                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-YAML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+PHP                      2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
+Twig                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+YAML                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cinema                   1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-CYBER_SYMFONY_1          51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-tp1                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-formation-platform       47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-bibliotheque-universitair36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+cinema                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+CYBER_SYMFONY_1          51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+tp1                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+ChoukyBotDiscordPrive    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+formation-platform       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 
 💻 Operating System: 
-Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 02:57:16 UTC
+ Last Updated on 12/09/2026 10:00:59 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
