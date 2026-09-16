@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
 
@@ -50,24 +50,24 @@ Sunday                   51 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Twig                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-YAML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+PHP                      1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.66 % 
+Twig                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cinema                   1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-tp1                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-ChoukyBotDiscordPrive    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-formation-platform       47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-bibliotheque-universitair36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+cinema                   1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+tp1                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+ChoukyBotDiscordPrive    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+formation-platform       47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+bibliotheque-universitair36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 
 💻 Operating System: 
-Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 03:08:58 UTC
+ Last Updated on 16/09/2026 10:47:36 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
