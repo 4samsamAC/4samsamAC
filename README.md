@@ -50,24 +50,24 @@ Sunday                   51 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.66 % 
-Twig                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JavaScript               39 mins             █████████░░░░░░░░░░░░░░░░   35.98 % 
+Other                    27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cinema                   1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-tp1                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-ChoukyBotDiscordPrive    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-formation-platform       47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-bibliotheque-universitair36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+ChoukyBotDiscordPrive    49 mins             ███████████░░░░░░░░░░░░░░   45.48 % 
+Unknown Project          47 mins             ███████████░░░░░░░░░░░░░░   43.13 % 
+ChoukySite               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+choukybot                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+ChoukyBotDiscordPublic   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +93,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 03:13:10 UTC
+ Last Updated on 17/09/2026 10:54:54 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
