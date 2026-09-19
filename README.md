@@ -7,7 +7,7 @@ I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I slee
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-163.62%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -50,24 +50,20 @@ Sunday                   51 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               39 mins             █████████░░░░░░░░░░░░░░░░   35.98 % 
-Other                    27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-YAML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Other                    27 mins             ██████████░░░░░░░░░░░░░░░   38.73 % 
+JavaScript               19 mins             ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+HTML                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    49 mins             ███████████░░░░░░░░░░░░░░   45.48 % 
-Unknown Project          47 mins             ███████████░░░░░░░░░░░░░░   43.13 % 
-ChoukySite               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-choukybot                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-ChoukyBotDiscordPublic   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Unknown Project          1 hr 3 mins         ██████████████████████░░░   87.31 % 
+ChoukySite               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,7 +89,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 02:57:54 UTC
+ Last Updated on 19/09/2026 10:15:42 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
