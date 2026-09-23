@@ -3,11 +3,11 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-164.34%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -50,28 +50,47 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        ████████████░░░░░░░░░░░░░   49.42 % 
-Other                    1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.77 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JavaScript               1 hr 52 mins        ████████████░░░░░░░░░░░░░   46.49 % 
+Other                    1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   41.59 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 38 mins       ███████████████████████░░   90.17 % 
+Codex Vscode             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    2 hrs 40 mins       ██████████████████░░░░░░░   70.44 % 
-Unknown Project          58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-ChoukySite               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+ChoukyBotDiscordPrive    2 hrs 40 mins       █████████████████░░░░░░░░   66.26 % 
+Unknown Project          54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+sa                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+PhoneTracker             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+sal                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 mins (9.83%)
+
+✍️ 0 lines written by AI, 18,064 lines written by hand (0.0% AI-written)
+
+🔤 62,676 Input Tokens, 17,756 Output Tokens
+
+💵 $0.53 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 292 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +110,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 03:07:12 UTC
+ Last Updated on 23/09/2026 10:42:50 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
