@@ -50,33 +50,33 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        ████████████░░░░░░░░░░░░░   46.49 % 
-Other                    1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   41.59 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Other                    1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   35.73 % 
+JavaScript               1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   33.06 % 
+PHP                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Twig                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 38 mins       ███████████████████████░░   90.17 % 
-Codex Vscode             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+VS Code                  4 hrs 18 mins       ███████████████████████░░   91.55 % 
+Codex Vscode             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    2 hrs 40 mins       █████████████████░░░░░░░░   66.26 % 
-Unknown Project          54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-sa                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-PhoneTracker             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-sal                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+ChoukyBotDiscordPrive    2 hrs 40 mins       ██████████████░░░░░░░░░░░   56.95 % 
+spacial-station          59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Unknown Project          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+sa                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+PhoneTracker             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Windows                  4 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (9.83%)
+⏱ AI Coding Time: 23 mins (8.45%)
 
-✍️ 0 lines written by AI, 18,064 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 16,785 lines written by hand (0.0% AI-written)
 
 🔤 62,676 Input Tokens, 17,756 Output Tokens
 
@@ -110,7 +110,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 02:58:44 UTC
+ Last Updated on 24/09/2026 11:03:24 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
