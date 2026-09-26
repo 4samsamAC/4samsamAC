@@ -50,46 +50,46 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   35.73 % 
-JavaScript               1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   33.06 % 
-PHP                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Twig                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+JavaScript               1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.30 % 
+Other                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+PHP                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Twig                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       ███████████████████████░░   91.55 % 
-Codex Vscode             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   99.94 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    2 hrs 40 mins       ██████████████░░░░░░░░░░░   56.95 % 
-spacial-station          59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Unknown Project          35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-sa                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-PhoneTracker             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+ChoukyBotDiscordPrive    2 hrs 41 mins       █████████████████░░░░░░░░   66.27 % 
+spacial-station          59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+PhoneTracker             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+sal                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (8.45%)
+⏱ AI Coding Time: 0 secs (0.06%)
 
-✍️ 0 lines written by AI, 16,785 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,971 lines written by hand (0.0% AI-written)
 
-🔤 62,676 Input Tokens, 17,756 Output Tokens
+🔤 7,169 Input Tokens, 397 Output Tokens
 
-💵 $0.53 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 292 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 283 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -110,7 +110,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:04:08 UTC
+ Last Updated on 26/09/2026 03:19:10 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
