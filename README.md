@@ -50,22 +50,20 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.30 % 
-Other                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+JavaScript               1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.32 % 
+Other                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
 PHP                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 Twig                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████████████████   99.94 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    2 hrs 41 mins       █████████████████░░░░░░░░   66.27 % 
-spacial-station          59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+ChoukyBotDiscordPrive    2 hrs 41 mins       █████████████████░░░░░░░░   66.30 % 
+spacial-station          59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 PhoneTracker             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-sal                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
 Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
@@ -74,23 +72,7 @@ Windows                  4 hrs 3 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.06%)
-
-✍️ 0 lines written by AI, 1,971 lines written by hand (0.0% AI-written)
-
-🔤 7,169 Input Tokens, 397 Output Tokens
-
-💵 $0.02 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 283 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +92,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 20:37:06 UTC
+ Last Updated on 27/09/2026 03:27:15 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
