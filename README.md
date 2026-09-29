@@ -50,23 +50,22 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.46 % 
-Other                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   32.03 % 
-PHP                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Twig                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+PHP                      41 mins             ████████████████░░░░░░░░░   65.54 % 
+Twig                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    2 hrs 41 mins       █████████████████░░░░░░░░   66.54 % 
-spacial-station          59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-PhoneTracker             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+spacial-station          59 mins             ███████████████████████░░   93.51 % 
+PhoneTracker             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+ChoukyBotDiscordPrive    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Windows                  4 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,7 +91,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 22:55:11 UTC
+ Last Updated on 29/09/2026 04:01:22 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
