@@ -3,9 +3,9 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -50,22 +50,45 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.00 % 
+YAML                     3 mins              ████████████░░░░░░░░░░░░░   46.88 % 
+Java                     3 mins              ███████████░░░░░░░░░░░░░░   42.16 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████░░░░   84.62 % 
+Codex Vscode             1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 
 🐱‍💻 Projects: 
-Config                   0 secs              █████████████████████████   100.00 % 
+poc-symfony-owasp-cve    4 mins              █████████████░░░░░░░░░░░░   53.82 % 
+JAVA_HIBERNATE_2         3 mins              ███████████░░░░░░░░░░░░░░   42.16 % 
+Config                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (42.16%)
+
+✍️ 7 lines written by AI, 16 lines written by hand (30.43% AI-written)
+
+🔤 48,968 Input Tokens, 3,120 Output Tokens
+
+💵 $0.20 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      19 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 30.43% of written lines came from AI
+📝 Concise Prompter — average 76 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 52.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +108,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 23:41:41 UTC
+ Last Updated on 06/10/2026 04:40:03 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
