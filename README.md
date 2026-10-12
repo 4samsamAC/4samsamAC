@@ -50,21 +50,21 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 26 mins        █████████████░░░░░░░░░░░░   51.37 % 
-Twig                     1 hr 14 mins        ███████████░░░░░░░░░░░░░░   44.11 % 
+PHP                      1 hr 26 mins        █████████████░░░░░░░░░░░░   51.46 % 
+Twig                     1 hr 14 mins        ███████████░░░░░░░░░░░░░░   44.19 % 
 YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   99.31 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+VS Code                  2 hrs 47 mins       █████████████████████████   99.30 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-eventcampus              2 hrs 23 mins       █████████████████████░░░░   84.90 % 
-projetSupport            17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-poc-symfony-owasp-cve    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-JAVA_HIBERNATE_2         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+eventcampus              2 hrs 23 mins       █████████████████████░░░░   85.05 % 
+projetSupport            17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+poc-symfony-owasp-cve    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JAVA_HIBERNATE_2         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 cinema                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
@@ -74,7 +74,7 @@ Windows                  2 hrs 48 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (1.9%)
+⏱ AI Coding Time: 3 mins (1.91%)
 
 ✍️ 7 lines written by AI, 233 lines written by hand (2.92% AI-written)
 
@@ -110,7 +110,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 21:26:32 UTC
+ Last Updated on 12/10/2026 04:08:05 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
