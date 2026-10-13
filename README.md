@@ -50,47 +50,25 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 26 mins        █████████████░░░░░░░░░░░░   51.46 % 
-Twig                     1 hr 14 mins        ███████████░░░░░░░░░░░░░░   44.19 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Java                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PHP                      1 hr 26 mins        █████████████░░░░░░░░░░░░   53.80 % 
+Twig                     1 hr 14 mins        ████████████░░░░░░░░░░░░░   46.20 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 47 mins       █████████████████████████   99.30 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eventcampus              2 hrs 23 mins       █████████████████████░░░░   85.05 % 
-projetSupport            17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-poc-symfony-owasp-cve    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JAVA_HIBERNATE_2         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-cinema                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+eventcampus              2 hrs 23 mins       ██████████████████████░░░   88.91 % 
+projetSupport            17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+cinema                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (1.91%)
-
-✍️ 7 lines written by AI, 233 lines written by hand (2.92% AI-written)
-
-🔤 48,968 Input Tokens, 3,120 Output Tokens
-
-💵 $0.20 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      19 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 2.92% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 95.57% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +88,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:06:45 UTC
+ Last Updated on 13/10/2026 13:29:16 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
