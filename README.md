@@ -50,19 +50,20 @@ Sunday                   54 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 26 mins        █████████████░░░░░░░░░░░░   53.80 % 
-Twig                     1 hr 14 mins        ████████████░░░░░░░░░░░░░   46.20 % 
+TypeScript               1 hr 37 mins        ████████████████████░░░░░   79.80 % 
+JavaScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eventcampus              2 hrs 23 mins       ██████████████████████░░░   88.91 % 
-projetSupport            17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-cinema                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+ChoukyBotDiscordPrive    2 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,7 +89,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 03:01:03 UTC
+ Last Updated on 15/10/2026 10:48:41 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
