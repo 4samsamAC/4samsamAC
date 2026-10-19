@@ -3,7 +3,7 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2040%20mins-blue?style=flat)
 
@@ -50,22 +50,23 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       ██████████████░░░░░░░░░░░   55.40 % 
-YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-JavaScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+TypeScript               2 hrs 33 mins       ████████████░░░░░░░░░░░░░   48.18 % 
+JavaScript               50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+PHP                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    3 hrs 49 mins       ██████████████████████░░░   89.29 % 
-BlindTest                21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-cinema                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+ChoukyBotDiscordPrive    3 hrs 49 mins       ██████████████████░░░░░░░   72.02 % 
+BlindTest                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+red                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+cinema                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-Windows                  4 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +92,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:02:40 UTC
+ Last Updated on 19/10/2026 03:04:59 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
