@@ -3,11 +3,11 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179.38%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -50,33 +50,33 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
-JavaScript               50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-YAML                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+PHP                      1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.15 % 
+TypeScript               55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+YAML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 31 mins       ████████████████████████░   94.28 % 
-Codex Vscode             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+VS Code                  4 hrs 54 mins       ███████████████████████░░   93.60 % 
+Codex Vscode             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    3 hrs 49 mins       ████████████████░░░░░░░░░   65.19 % 
-BlindTest                1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-pi                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-cinema                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-red                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+ChoukyBotDiscordPrive    1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.08 % 
+BlindTest                1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+stagehub                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+cinema                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+pi                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 💻 Operating System: 
-Windows                  5 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (5.72%)
+⏱ AI Coding Time: 20 mins (6.4%)
 
-✍️ 0 lines written by AI, 253 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 279 lines written by hand (0.0% AI-written)
 
 🔤 34,098 Input Tokens, 2,076 Output Tokens
 
@@ -110,7 +110,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 03:07:39 UTC
+ Last Updated on 22/10/2026 11:05:54 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
