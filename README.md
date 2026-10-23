@@ -3,9 +3,9 @@
 I try hard the learning Zig, :O And when I don't code, I try hard osu! Or I sleep like a mimir ;-;
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C138%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -50,47 +50,48 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   32.15 % 
-TypeScript               55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-YAML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+PHP                      1 hr 46 mins        ████████████░░░░░░░░░░░░░   48.44 % 
+Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       ███████████████████████░░   93.60 % 
-Codex Vscode             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+VS Code                  3 hrs 17 mins       ██████████████████████░░░   89.90 % 
+Codex Vscode             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Vscodium                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-ChoukyBotDiscordPrive    1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   34.08 % 
-BlindTest                1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-stagehub                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-cinema                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-pi                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+BlindTest                1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.66 % 
+stagehub                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+cinema                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+pi                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+eventcampus              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
 
 💻 Operating System: 
-Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (6.4%)
+⏱ AI Coding Time: 22 mins (10.1%)
 
-✍️ 0 lines written by AI, 279 lines written by hand (0.0% AI-written)
+✍️ 16 lines written by AI, 226 lines written by hand (6.61% AI-written)
 
-🔤 34,098 Input Tokens, 2,076 Output Tokens
+🔤 48,026 Input Tokens, 4,571 Output Tokens
 
 💵 $0.01 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      27 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,044 characters per prompt
+🧑‍💻 Mostly Hands-On — 6.61% of written lines came from AI
+📄 Detailed Prompter — average 889 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +111,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 03:12:35 UTC
+ Last Updated on 23/10/2026 10:58:13 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
