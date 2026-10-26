@@ -50,34 +50,34 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 58 mins        ████████████░░░░░░░░░░░░░   46.66 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Twig                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+PHP                      1 hr 40 mins        █████████████░░░░░░░░░░░░   52.23 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Twig                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        ██████████████████░░░░░░░   72.72 % 
-Vscodium                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Codex Vscode             25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+VS Code                  2 hrs 3 mins        ████████████████░░░░░░░░░   64.03 % 
+Vscodium                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Codex Vscode             25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
 
 🐱‍💻 Projects: 
-BlindTest                48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-stagehub                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Who's that pokemon       31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-poc-symfony-owasp-cve    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-cinema                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+stagehub                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Who's that pokemon       31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+poc-symfony-owasp-cve    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+cinema                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+pi                       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 💻 Operating System: 
-Windows                  4 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (27.44%)
+⏱ AI Coding Time: 1 hr 9 mins (36.19%)
 
-✍️ 594 lines written by AI, 900 lines written by hand (39.76% AI-written)
+✍️ 594 lines written by AI, 865 lines written by hand (40.71% AI-written)
 
 🔤 226,105 Input Tokens, 40,097 Output Tokens
 
@@ -88,10 +88,10 @@ Windows                  4 hrs 14 mins       ███████████�
 GPT                      605 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.76% of written lines came from AI
+⚖️ Balanced with AI — 40.71% of written lines came from AI
 📚 Verbose Prompter — average 2,015 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 60.64% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +111,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 20:21:09 UTC
+ Last Updated on 26/10/2026 03:01:01 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
