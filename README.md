@@ -50,48 +50,48 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 40 mins        █████████████░░░░░░░░░░░░   52.23 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Twig                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+PHP                      1 hr 31 mins        █████████████████░░░░░░░░   68.55 % 
+Twig                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        ████████████████░░░░░░░░░   64.03 % 
-Vscodium                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-Codex Vscode             25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+VS Code                  1 hr 50 mins        █████████████████████░░░░   82.78 % 
+Vscodium                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Codex Vscode             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🐱‍💻 Projects: 
-stagehub                 39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Who's that pokemon       31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-poc-symfony-owasp-cve    30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-cinema                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-pi                       19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+stagehub                 39 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Who's that pokemon       31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+eventcampus              19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+cinema                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+mon-projet               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (36.19%)
+⏱ AI Coding Time: 23 mins (17.54%)
 
-✍️ 594 lines written by AI, 865 lines written by hand (40.71% AI-written)
+✍️ 380 lines written by AI, 865 lines written by hand (30.52% AI-written)
 
-🔤 226,105 Input Tokens, 40,097 Output Tokens
+🔤 86,005 Input Tokens, 21,445 Output Tokens
 
-💵 $1.47 Estimated AI Cost This Week
+💵 $0.79 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 15 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-GPT                      605 lines           █████████████████████████   100.00 % 
+GPT                      391 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.71% of written lines came from AI
-📚 Verbose Prompter — average 2,015 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 59.64% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 30.52% of written lines came from AI
+📚 Verbose Prompter — average 4,108 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 69.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +111,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:15:57 UTC
+ Last Updated on 27/10/2026 03:33:13 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
