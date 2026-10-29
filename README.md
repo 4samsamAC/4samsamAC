@@ -50,34 +50,34 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 31 mins        █████████████████░░░░░░░░   68.55 % 
-Twig                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+PHP                      19 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
+Twig                     16 mins             ████████░░░░░░░░░░░░░░░░░   33.01 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████░░░░   82.78 % 
-Vscodium                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Codex Vscode             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+VS Code                  25 mins             █████████████░░░░░░░░░░░░   52.81 % 
+Vscodium                 17 mins             █████████░░░░░░░░░░░░░░░░   36.62 % 
+Codex Vscode             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 
 🐱‍💻 Projects: 
-stagehub                 39 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-Who's that pokemon       31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-eventcampus              19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-cinema                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-mon-projet               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Who's that pokemon       31 mins             ████████████████░░░░░░░░░   64.76 % 
+mon-projet               10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+ChoukyBotDiscordPrive    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+red                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+MFDP_1_12_7_26_3         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (17.54%)
+⏱ AI Coding Time: 23 mins (48.06%)
 
-✍️ 380 lines written by AI, 865 lines written by hand (30.52% AI-written)
+✍️ 380 lines written by AI, 690 lines written by hand (35.51% AI-written)
 
 🔤 86,005 Input Tokens, 21,445 Output Tokens
 
@@ -88,10 +88,10 @@ Windows                  2 hrs 13 mins       ███████████�
 GPT                      391 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.52% of written lines came from AI
+⚖️ Balanced with AI — 35.51% of written lines came from AI
 📚 Verbose Prompter — average 4,108 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 69.57% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 64.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +111,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:08:31 UTC
+ Last Updated on 29/10/2026 04:11:35 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
