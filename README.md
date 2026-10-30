@@ -50,48 +50,46 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      19 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
-Twig                     16 mins             ████████░░░░░░░░░░░░░░░░░   33.01 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Twig                     16 mins             ███████████░░░░░░░░░░░░░░   44.15 % 
+PHP                      14 mins             ██████████░░░░░░░░░░░░░░░   39.97 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+mcfunction               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████░░░░░░░░░░░░   52.81 % 
-Vscodium                 17 mins             █████████░░░░░░░░░░░░░░░░   36.62 % 
-Codex Vscode             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Vscodium                 15 mins             ███████████░░░░░░░░░░░░░░   43.35 % 
+VS Code                  15 mins             ███████████░░░░░░░░░░░░░░   42.52 % 
+Codex Vscode             5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 
 🐱‍💻 Projects: 
-Who's that pokemon       31 mins             ████████████████░░░░░░░░░   64.76 % 
-mon-projet               10 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-ChoukyBotDiscordPrive    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-red                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-MFDP_1_12_7_26_3         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Who's that pokemon       31 mins             ██████████████████████░░░   86.62 % 
+ChoukyBotDiscordPrive    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+MFDP_1_12_7_26_3         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (48.06%)
+⏱ AI Coding Time: 21 mins (58.65%)
 
-✍️ 380 lines written by AI, 690 lines written by hand (35.51% AI-written)
+✍️ 364 lines written by AI, 679 lines written by hand (34.9% AI-written)
 
-🔤 86,005 Input Tokens, 21,445 Output Tokens
+🔤 72,077 Input Tokens, 18,950 Output Tokens
 
 💵 $0.79 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      391 lines           █████████████████████████   100.00 % 
+GPT                      364 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.51% of written lines came from AI
-📚 Verbose Prompter — average 4,108 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 64.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 34.9% of written lines came from AI
+📚 Verbose Prompter — average 11,943 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 65.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +109,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:24:14 UTC
+ Last Updated on 30/10/2026 04:11:50 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
