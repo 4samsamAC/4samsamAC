@@ -50,46 +50,27 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               53 mins             ████████░░░░░░░░░░░░░░░░░   32.58 % 
-Other                    39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-HTML                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Twig                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-PHP                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+JavaScript               53 mins             ██████████░░░░░░░░░░░░░░░   41.27 % 
+Other                    39 mins             ████████░░░░░░░░░░░░░░░░░   30.81 % 
+HTML                     34 mins             ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       ██████████████████████░░░   87.25 % 
-Vscodium                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Codex Vscode             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-idee stream aov          2 hrs 9 mins        ████████████████████░░░░░   78.69 % 
-Who's that pokemon       31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-ChoukyBotDiscordPrive    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+idee stream aov          2 hrs 9 mins        █████████████████████████   99.82 % 
+ChoukyBotDiscordPrive    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (13.01%)
-
-✍️ 364 lines written by AI, 812 lines written by hand (30.95% AI-written)
-
-🔤 72,077 Input Tokens, 18,950 Output Tokens
-
-💵 $0.79 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-GPT                      364 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 30.95% of written lines came from AI
-📚 Verbose Prompter — average 11,943 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 70.21% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +90,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/4samsamAC/4samsamAC/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2026 04:06:03 UTC
+ Last Updated on 01/11/2026 12:37:21 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://wakatime.com/share/@05e9693c-ae09-4eda-80e1-420e9727a814/cd575566-5d1a-4a1b-bd1b-7821aa98ed37.svg"/>
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4samsamAC&bg_color=2f3640&color=00a8ff&line=82ccdd&point=00a8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
